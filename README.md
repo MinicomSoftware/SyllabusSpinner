@@ -6,7 +6,7 @@ Instructions for the Syllabus Spinner game: Use the Syllabus Spinner as an inter
 This game was develop to be used during an SI session to enrich a student's learning experience. The game is quick and it allows for virtually every student to have a turn. 
 
 ## Check the gallery under /gallery to see the creation!
-
+ <img src="https://github.com/MinicomSoftware/SyllabusSpinner/blob/master/gallery/Syllabus%20Spinner%20Image%20(1).jpg?raw=true" alt="logo" height="600" width="900"> 
 
 Developed by: Steven Wilson (SI Leader at MSJC) <br>
 <a href="https://twitter.com/SCMowns">@SCMowns</a> <br>
